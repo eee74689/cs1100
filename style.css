@@ -1,0 +1,49 @@
+h1{
+	font-size: 50pt;
+	text-align: center;
+	color: #f9f7f7;
+	padding-top: 10px;
+}
+
+h2
+{
+	font-size: 28pt;
+	text-indent: 40px;
+}
+
+p
+{
+	font-size: 18pt;
+}
+h4
+{
+	text-align: center;
+}
+
+
+
+img
+{
+	display: block;
+    margin: 0 auto;
+}
+body{
+	color: white;
+	font-family: "Tahoma";
+}
+
+#wrapper
+{
+	border-radius: 10px;
+	background-color: #3294ad;
+	width: 70%;
+	margin:auto;
+
+}
+
+#content
+{
+	margin: auto;
+	width: 60%;
+}
+
